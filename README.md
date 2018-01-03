@@ -1,2 +1,2 @@
-# hackerrank
-contains hackerrank solutions
+# hacker-rank
+contains hacker-rank solutions
