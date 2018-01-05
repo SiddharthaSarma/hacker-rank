@@ -18,3 +18,9 @@ function stringConstruction(s) {
 function stringConstruction(s) {
   return [...new Set(s.split(''))].length;
 }
+
+
+// Solution - 3
+function stringConstruction(s) {
+  return new Set(s.split('')).size;
+}
